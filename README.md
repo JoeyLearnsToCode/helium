@@ -1,3 +1,7 @@
+> 本仓库是个人自用的 Helium 修改版，只通过 GitHub Releases 分发 Windows 构建，不向上游提交 PR。
+>
+> This is a personal self-use fork of Helium that publishes Windows builds through GitHub Releases only, and never opens upstream pull requests.
+
 <div align="center">
     <img src="resources/branding/app_icon/raw.png"
         title="Helium" alt="Helium logo" width="120" />
